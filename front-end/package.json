@@ -41,7 +41,7 @@
     "yup": "^0.32.11"
   },
   "devDependencies": {
-    "eslint": "8.0.0",
+    "eslint": "^8.3.0",
     "eslint-config-next": "11.1.2"
   }
 }
